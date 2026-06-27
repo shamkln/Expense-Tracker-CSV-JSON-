@@ -1,17 +1,3 @@
-"""
-╔══════════════════════════════════════════════════════════════╗
-║           EXPENSE TRACKER - CODTECH IT SOLUTIONS            ║
-║                  Internship Project Task                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  Name    : [Your Name]                                       ║
-║  Company : CODTECH IT SOLUTIONS                             ║
-║  ID      : [Your Intern ID]                                  ║
-║  Domain  : Python Programming                               ║
-║  Duration: [Internship Duration]                            ║
-║  Mentor  : [Mentor Name]                                     ║
-╚══════════════════════════════════════════════════════════════╝
-"""
-
 import csv
 import json
 import os
