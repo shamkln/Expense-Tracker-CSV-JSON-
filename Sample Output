@@ -1,0 +1,54 @@
+## 📸 Sample Output
+
+### Main Menu
+```
+════════════════════════════════════════════════════════════
+                      EXPENSE TRACKER
+                   CODTECH IT SOLUTIONS
+════════════════════════════════════════════════════════════
+  Records: 10   |   Total Spending: Rs.6,223.25
+────────────────────────────────────────────────────────────
+  [1] Add New Expense
+  [2] View All Expenses
+  [3] Delete an Expense
+  [4] Search & Filter Expenses
+  [5] Summary & Statistics
+  [6] Export (CSV & JSON)
+  [0] Exit
+────────────────────────────────────────────────────────────
+  Select option:
+```
+
+### View All Expenses
+```
+  ID   Date         Category            Description      Amount
+────────────────────────────────────────────────────────────────
+  1    2025-06-01   Food & Dining       Lunch - Swiggy   Rs.250.00
+  2    2025-06-03   Transportation      Ola Cab          Rs.180.50
+  3    2025-06-05   Shopping            Amazon Order   Rs.1,299.00
+  ...
+────────────────────────────────────────────────────────────────
+                                           TOTAL       Rs.6,223.25
+  Total records: 10
+```
+
+### Summary & Statistics
+```
+  CATEGORY                  AMOUNT         SHARE  BAR
+────────────────────────────────────────────────────────────
+  Bills & Utilities      Rs.1,450.00       23.3%  ████████████████████
+  Shopping               Rs.1,299.00       20.9%  █████████████████
+  Transportation           Rs.980.50       15.8%  █████████████
+  Education                Rs.599.00        9.6%  ████████
+  Food & Dining            Rs.570.75        9.2%  ███████
+  Entertainment            Rs.499.00        8.0%  ██████
+────────────────────────────────────────────────────────────
+  GRAND TOTAL            Rs.6,223.25
+
+  Highest expense category : Bills & Utilities
+  Total number of entries  : 10
+  Average expense amount   : Rs.622.33
+```
+
+---
+
