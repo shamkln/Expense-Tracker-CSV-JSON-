@@ -1,0 +1,72 @@
+[
+    {
+        "ID": 1,
+        "Date": "2025-06-01",
+        "Category": "Food & Dining",
+        "Description": "Lunch - Swiggy",
+        "Amount": 250.0
+    },
+    {
+        "ID": 2,
+        "Date": "2025-06-03",
+        "Category": "Transportation",
+        "Description": "Ola Cab",
+        "Amount": 180.5
+    },
+    {
+        "ID": 3,
+        "Date": "2025-06-05",
+        "Category": "Shopping",
+        "Description": "Amazon Order",
+        "Amount": 1299.0
+    },
+    {
+        "ID": 4,
+        "Date": "2025-06-07",
+        "Category": "Entertainment",
+        "Description": "Netflix sub",
+        "Amount": 499.0
+    },
+    {
+        "ID": 5,
+        "Date": "2025-06-10",
+        "Category": "Food & Dining",
+        "Description": "Dinner - Zomato",
+        "Amount": 320.75
+    },
+    {
+        "ID": 6,
+        "Date": "2025-06-12",
+        "Category": "Bills & Utilities",
+        "Description": "Electricity Bill",
+        "Amount": 1450.0
+    },
+    {
+        "ID": 7,
+        "Date": "2025-06-14",
+        "Category": "Healthcare",
+        "Description": "Pharmacy",
+        "Amount": 375.0
+    },
+    {
+        "ID": 8,
+        "Date": "2025-06-16",
+        "Category": "Education",
+        "Description": "Udemy Course",
+        "Amount": 599.0
+    },
+    {
+        "ID": 9,
+        "Date": "2025-06-18",
+        "Category": "Transportation",
+        "Description": "Monthly Bus Pass",
+        "Amount": 800.0
+    },
+    {
+        "ID": 10,
+        "Date": "2025-06-20",
+        "Category": "Personal Care",
+        "Description": "Salon Visit",
+        "Amount": 450.0
+    }
+]
